@@ -25,6 +25,12 @@ on:
     branches:
 
       - main
+      
+ 
+  
+permissions:
+    contents: write
+
 
 
 
