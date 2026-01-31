@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Student of Computer Science on VSB-TUO<br>⏱️ 20 years old<br>🤖 Machine Learning enjoyer
+🏫 Student of Computer Science on VSB-TUO<br>⏱️ 21 years old<br>🤖 Machine Learning enjoyer
 
 
 ## 🌐 Socials:
